@@ -42,3 +42,9 @@ I want to contribute to a world where we value skills and relationships over car
 	<li><a href="https://github.com/marketplace/actions/apimatic-transformer">APIMatic Transformer GitHub Action</a></li>
 	<li><a href="https://play.google.com/store/apps/details?id=com.wisecure.zaeempc.wi_secure&hl=en_GB">Wi-Secure</a></li>
 </ul>
+
+<h2>Talks</h2>
+<ul>
+	<li><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/f6cc4f06-a839-413c-90c2-99b22d698d8c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe></li>
+
+</ul>
