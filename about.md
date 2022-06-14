@@ -46,6 +46,6 @@ I want to contribute to a world where we value skills and relationships over car
 <h2>Talks</h2>
 
 <br>
-	<<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/f6cc4f06-a839-413c-90c2-99b22d698d8c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
+	<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/f6cc4f06-a839-413c-90c2-99b22d698d8c?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 
