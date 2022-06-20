@@ -1,7 +1,7 @@
 ---
 title: "Finding a Visa Sponsorship Job with relocation support in Germany"
 layout: post
-date: 2022-06-20 21:00
+date: 2022-06-19 21:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
