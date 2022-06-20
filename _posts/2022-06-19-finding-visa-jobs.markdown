@@ -13,12 +13,11 @@ author: Mujtaba Mehdi
 description: I am sharing some resources below that can be useful while looking for the right job for you with relocation
 ---
 
-<p align="center">
+
 ### How to find a relocation and visa sponsorship job in Germany and Europe
 
 ![](https://cdn-images-1.medium.com/max/1600/1*9lMHUK5_WJnbhkGI6ygX1A.jpeg)
 
-</p>
     
 A number of people asked me how to find jobs that offer Visa/Relocation Sponsorship. I am sharing some resources below that can be useful while looking for the right job for you with relocation.
 
