@@ -10,11 +10,6 @@ resume-url: >-
 url: 'https://mujjazi.github.io/'
 permalink: '/:title/'
 analytics-google: UA-68099646-2
-disqus:
-  shortname: mydisqus
-  categories:
-    - blog
-    - project
 facebook: /mujtaba.mehdi.9083/
 twitter: pakistanitester
 linkedin: mujtabamehdi9
