@@ -28,7 +28,7 @@ authors:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: pakistanitester
-width: normal
+width: large
 pagination:
   enabled: false
   sort_reverse: true
