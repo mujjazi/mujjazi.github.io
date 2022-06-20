@@ -36,6 +36,7 @@ pagination:
   per_page: 5
   permalink: '/:num/'
 about: true
+blog: true
 read-time: true
 show-tags: true
 related: true
