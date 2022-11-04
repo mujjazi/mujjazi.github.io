@@ -3,6 +3,12 @@ bio: I am a simple person with a love for technology
 description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
+
+# your site color theme, true for dark theme, 
+# false to light theme, auto to switch with system.
+dark-theme: auto
+
+
 resume: true
 resume-external: true
 resume-url: >-
