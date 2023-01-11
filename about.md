@@ -40,7 +40,6 @@ I want to contribute to a world where we value skills and relationships over car
 
 <ul>
 	<li><a href="https://github.com/marketplace/actions/apimatic-transformer">APIMatic Transformer GitHub Action</a></li>
-	<li><a href="https://play.google.com/store/apps/details?id=com.wisecure.zaeempc.wi_secure&hl=en_GB">Wi-Secure</a></li>
 </ul>
 
 
