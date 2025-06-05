@@ -16,8 +16,6 @@ resume-url: >-
 url: 'https://mujjazi.github.io/'
 permalink: '/:title/'
 analytics-google: UA-68099646-2
-facebook: /mujtaba.mehdi.9083/
-twitter: pakistanitester
 linkedin: mujtabamehdi9
 github: mujjazi
 medium: 13besemmehdi
@@ -27,8 +25,7 @@ authors:
     name: Mujtaba Mehdi
     bio: I love free and open source software
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: pakistanitester
+    picture: assets/images/profile1.jpg
 width: large
 pagination:
   enabled: false
