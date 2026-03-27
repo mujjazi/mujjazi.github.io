@@ -11,8 +11,7 @@ dark-theme: auto
 
 resume: true
 resume-external: true
-resume-url: >-
-  https://docs.google.com/document/d/175XVp6ohWLxCKhwPVoDnbucmBtH2Usgp2rkzSl6F3F0/edit?usp=sharing
+resume-url: 'https://docs.google.com/document/d/175XVp6ohWLxCKhwPVoDnbucmBtH2Usgp2rkzSl6F3F0/edit?usp=sharing'
 url: 'https://mujjazi.github.io/'
 permalink: '/:title/'
 analytics-google: UA-68099646-2
