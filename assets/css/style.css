@@ -135,6 +135,13 @@ body {
 .profile-bio {
   font-size: 0.875rem;
   color: var(--grey);
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+
+.profile-meta {
+  font-size: 0.8rem;
+  color: var(--grey);
   margin-bottom: 14px;
   line-height: 1.5;
 }
