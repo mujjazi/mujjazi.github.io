@@ -26,4 +26,4 @@ Push to the `gh-pages` branch. GitHub Pages serves the repo root as static files
 
 ## Note
 
-The Résumé link points to `resume.pdf` at the repo root. Place the PDF there before committing.
+The nav Email link is a mailto. There is no résumé PDF in the repo.

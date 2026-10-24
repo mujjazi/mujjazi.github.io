@@ -13,7 +13,7 @@
   --bg-elevated: #ffffff;
   --text-primary: #1d1d1f;
   --text-secondary: #6e6e73;
-  --text-tertiary: #86868b;
+  --text-tertiary: #5c5c61;
   --hairline: rgba(0, 0, 0, 0.1);
   --nav-bg: rgba(251, 251, 253, 0.72);
 
@@ -43,7 +43,7 @@
     --bg-elevated: #1c1c1e;
     --text-primary: #f5f5f7;
     --text-secondary: #a1a1a6;
-    --text-tertiary: #86868b;
+    --text-tertiary: #a1a1a6;
     --hairline: rgba(255, 255, 255, 0.12);
     --nav-bg: rgba(22, 22, 23, 0.72);
 
@@ -176,7 +176,7 @@ main {
   color: var(--text-primary);
 }
 
-.nav-link--resume {
+.nav-link--cta {
   flex-shrink: 0;
   font-weight: 600;
   color: var(--accent);
@@ -184,7 +184,7 @@ main {
   border-radius: var(--radius-pill);
 }
 
-.nav-link--resume:hover {
+.nav-link--cta:hover {
   background: var(--accent-soft);
   color: var(--accent);
 }
@@ -220,8 +220,15 @@ main {
   letter-spacing: -0.01em;
 }
 
+.hero-focus {
+  margin-top: 12px;
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
 .hero-meta {
-  margin-top: 10px;
+  margin-top: 8px;
   font-size: 15px;
   color: var(--text-tertiary);
 }
@@ -319,10 +326,6 @@ main {
   transition: background-color var(--speed) var(--ease);
 }
 
-.chip:hover {
-  background: var(--accent);
-  color: #fff;
-}
 
 .skills-list {
   display: flex;
@@ -363,10 +366,6 @@ main {
   transition: border-color var(--speed) var(--ease), color var(--speed) var(--ease);
 }
 
-.skill-tag:hover {
-  border-color: var(--accent);
-  color: var(--accent);
-}
 
 /* ── Lists (education, certifications, community, articles, projects) ─── */
 
@@ -509,6 +508,18 @@ main {
 
   .skill-row-label {
     min-width: auto;
+  }
+
+  .nav-inner {
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 8px;
+  }
+
+  .nav-links {
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow: visible;
   }
 
   .footer {
